@@ -1,2 +1,2 @@
 # estudos
-Estudos para vaga de esmprego
+Estudos para aprender JavaScript
